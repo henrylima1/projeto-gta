@@ -3,5 +3,5 @@
 📱 Projeto totalmente responsivo para Tablets e Celulares;
 
 <div>
-  <img src="./src/imagens/bg-main.png">
+  <img src="./src/imagens/imagem_2024-02-01_132716539.png">
 </div>
